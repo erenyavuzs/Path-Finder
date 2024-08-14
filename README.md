@@ -6,7 +6,7 @@ This project provides two different methods for solving a maze. The first method
 ## Contents
 
 v1 Terminal Version: Terminal-based maze solver application. <br>
-V2 GUI Version: GUI-based maze solver application.
+v2 GUI Version: GUI-based maze solver application.
 <br>
 
 <br>
