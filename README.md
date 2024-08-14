@@ -10,6 +10,7 @@ V2 GUI Version: GUI-based maze solver application.
 <br>
 
 <br>
+
 ### Notes
 You can configure the labyrinth as you like.
 <br>
