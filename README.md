@@ -9,6 +9,8 @@ v1 Terminal Version: Terminal-based maze solver application. <br>
 V2 GUI Version: GUI-based maze solver application.
 <br>
 
+<br>
+### Notes
 You can configure the labyrinth as you like.
 <br>
 
